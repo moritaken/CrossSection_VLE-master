@@ -11,6 +11,7 @@
 ## Features:
 <p>仮想空間内で板を自由に動かすことで，3次元図形を板で切ったときの断面図を観察できる．</p> 
 <p>開発環境: Unity2018.1.1f1 / htc VIVE / macOS High SierraとWindows10</p>
+<p>CubeのL, M, S, 等倍提示で大きさ比較（吉村 2019）</p>
 
 
 ### [操作説明](/img/usersGuide.png)
